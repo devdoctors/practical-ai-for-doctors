@@ -1,5 +1,14 @@
 # Practical AI for Doctors
 
+### 구성
+**Practical AI for Doctors**
+- [Practical GNN for Doctors](https://github.com/devdoctors/practical-ai-for-doctors/tree/main/gnn)
+  1. [Why? GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/01-why.md)
+  2. [What is the GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/02-what.md)
+  3. [How do I implement GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/03-how.ipynb)
+  4. Where do I use GNN?
+
+
 ### 소개
 
 안녕하세요.
@@ -15,15 +24,17 @@
 ### 주제
 강의는 AI(혹은 딥러닝)의 대표적인 모델들을 다루는 것을 큰 틀로 합니다.
 현재로서는 아래와 같은 모델들을 다루는 것을 생각하고 있습니다.
+
 1. Graph Neural Network (GNN)
-2. Convolution Neural Network (CNN)
-3. Transformer
+2. Transformers
+3. Convolution Neural Network (CNN)
 
 GNN을 처음으로 다루는 이유는, 의료도메인에서 그래프 구조의 데이터를 접하게 되는 경우가 생각보다 흔하지만, 이를 인공지능으로 처리할 수 있는 GNN에 대한 자료는 상대적으로 적다고 생각이 되었기 때문입니다.
 
-CNN을 다루는 이유는, U-Net과 같은 강력한 CNN 기반 모델들이 의료영상 딥러닝에서 안정적이고 훌륭한 성능을 낼 수 있음이 여러 좋은 논문들로 입증된 바가 있기 때문입니다. 다만 GNN에 비해 상대적으로 관련 자료를 찾기 쉬워 다른 자료를 추가로 참고하시는 것도 도움이 될 것으로 생각됩니다.
 
 Transformer는 Self-attention을 기반으로 한 인공지능 모델로, 자연어처리에서 괄목할 성과를 내었습니다. 최근에는 자연어처리뿐 아닌 컴퓨터비젼을 포함한 제반 분야에서 그 활용도가 폭발적으로 증가하고 있습니다. 이에 의료분야에서도 Transformer를 기반으로 한 좋은 성과들이 나올 것으로 예상이 되어 이에 대해 다루어 보고자 합니다.
+
+CNN을 다루는 이유는, U-Net과 같은 강력한 CNN 기반 모델들이 의료영상 딥러닝에서 안정적이고 훌륭한 성능을 낼 수 있음이 여러 좋은 논문들로 입증된 바가 있기 때문입니다. 다만 GNN에 비해 상대적으로 관련 자료를 찾기 쉬워 다른 자료를 추가로 참고하시는 것도 도움이 될 것으로 생각됩니다.
 
 ### 구성
 각 주제(모델)에 대한 강의는 아래와 같은 구성으로 진행을 하고자 합니다.
@@ -44,7 +55,7 @@ Transformer는 Self-attention을 기반으로 한 인공지능 모델로, 자연
 - Roussas. An introduction to Probability and Statistical Inference: 확률, 통계의 기초를 다루면서 추론에 대한 내용이 포함되어 머신러닝 기초를 쌓는데 도움이 됩니다.
 
 코딩은 파이썬 기초에 대해 알고 계시면 도움이 될 것입니다.
-딥러닝 라이브러리는 [PyTorch](https://pytorch.org/)를 기본적으로 사용할 예정이며 이에 대해 잘 모르시더라도 진행할 수 있도록 설명을 하도록 하겠습니다.
+딥러닝 라이브러리는 [PyTorch](https://pytorch.org/)를 기본적으로 사용할 예정이며 가능하다면 PyTorch에서 제공하는 기초 [튜토리얼](https://pytorch.org/tutorials/)을 한 번 훑으신 뒤에 강의를 따라오시기를 추천드립니다.
 
 
 ### 문의

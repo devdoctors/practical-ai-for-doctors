@@ -1,5 +1,15 @@
 # Practical GNN for Doctors
 ## What is the GNN?
+
+### 구성
+[Practical AI for Doctors](https://github.com/devdoctors/practical-ai-for-doctors)
+- [Practical GNN for Doctors](https://github.com/devdoctors/practical-ai-for-doctors/tree/main/gnn)
+  1. [Why? GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/01-why.md)
+  2. **What is the GNN?**
+  3. [How do I implement GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/03-how.ipynb)
+  4. Where do I use GNN?
+
+
 ### 들어가며
 
 지난 시간에는 GNN을 이용한 신약개발 연구 논문을 간략히 훑어 GNN에 대해 왜 알아두면 좋을지를 다루어 보았습니다.
@@ -87,3 +97,7 @@ GCN은 AGGREGATE와 COMBINE함수가 평균(Average)을 내는 것으로 정의�
 GCN은 2016년 9월 arXiv에 공개된 뒤, 글을 작성하는 시점인 2021년 4월 기준으로 7500회 이상 인용이 되었습니다.
 이는 GCN의 이론적인 통찰뿐만이 아니라 다양한 데이터와 목적에 대해 안정적으로 성능이 확보되는 강건함이 반영된 결과라고 볼 수 있겠습니다.
 GNN에 대해 조금 더 이해하고 싶은 분은 [GCN 논문 원문](https://arxiv.org/abs/1609.02907)을 한 번 읽어보시는 것을 추천드립니다.
+
+
+#### [이전: Why? GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/01-why.md)
+#### [다음: How do I implement GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/03-how.ipynb)

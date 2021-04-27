@@ -1,5 +1,16 @@
 # Practical GNN for Doctors
 ## Why? GNN?
+
+### 구성
+[Practical AI for Doctors](https://github.com/devdoctors/practical-ai-for-doctors)
+- [Practical GNN for Doctors](https://github.com/devdoctors/practical-ai-for-doctors/tree/main/gnn)
+  1. **Why? GNN?**
+  2. [What is the GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/02-what.md)
+  3. [How do I implement GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/03-how.ipynb)
+  4. Where do I use GNN?
+
+
+
 ### 들어가며
 
 인공지능에 관심을 가지고 계신 분들 중 대부분은 CNN이나 RNN에 대해 들어보셨을 것입니다.
@@ -80,3 +91,5 @@ Halicin은 과거에 당뇨병 치료 후보물질로 고려가 되었지만, �
 추가적으로, 위에 말씀드린 성공적인 딥러닝 적용을 위한 세 가지 고려사항(목표, 데이터, 모델)은 꼭 GNN이 아니더라도 반드시 기억하시는 것을 권유드리고 싶습니다.
 현실적인 목표를 세우는 것이나, 데이터 숫자가 충분한지를 예상하는 것은 딥러닝에 대한 경험이 축적되기 전까지는 직관적으로 알기 어려운 부분이 있습니다.
 그래도 이어지는 GNN에 대한 강의를 통해 GNN 모델이 어떻게 작동하는지 이해하고 다뤄보아서 실제 연구 방향 설정시에 다른 분야 전문가들과 원활한 융합/소통이 가능해진다면 이러한 문제들을 더 효율적으로 접근할 수 있을 것이라고 확신합니다.
+
+#### [다음: What is the GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/02-what.md)
