@@ -25,3 +25,5 @@ GPU는 따로 없어도 실험에 크게 무리는 없을 것으로 생각됩니
 ### 문의
 문의는 [DevDoctors 슬랙 채널](https://devdoctors.slack.com/)으로 해 주시기를 부탁드립니다.
 잘못된 점에 대한 지적, 이해가 되지 않는 부분 등 어떠한 내용이던 환영합니다!
+
+#### [다음: Why? GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/01-why.md)
