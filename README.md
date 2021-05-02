@@ -63,4 +63,4 @@ CNN을 다루는 이유는, U-Net과 같은 강력한 CNN 기반 모델들이 �
 잘못된 점에 대한 지적, 이해가 되지 않는 부분 등 어떠한 내용이던 환영합니다!
 
 
-#### [다음: Practical GNN for Doctors](https://github.com/devdoctors/practical-ai-for-doctors/tree/main/gnn)
+#### [다음: <제 1강> Practical GNN for Doctors](https://github.com/devdoctors/practical-ai-for-doctors/tree/main/gnn)
