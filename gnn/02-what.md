@@ -7,7 +7,7 @@
   1. [Why? GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/01-why.md)
   2. **What is the GNN?**
   3. [How do I implement GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/03-how.ipynb)
-  4. Where do I use GNN?
+  4. [Where do I use GNN?](https://github.com/devdoctors/practical-ai-for-doctors/blob/main/gnn/04-where.md)
 
 
 ### 들어가며
